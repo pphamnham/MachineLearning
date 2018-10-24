@@ -1,4 +1,10 @@
 This project will be used to store multiple machine learning projects including:
 
-1/ Using Naive Bayes for document categorization
-2/ Using different methods for Forest Cover dataset
+Document Categorization 
+1/ Using Naive Bayes from scratch
+
+Forest Cover
+1/ Knn methods
+2/ Logistic Regression
+
+
