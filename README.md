@@ -9,7 +9,9 @@ Dataset summary
 
 Forest Cover
 1/ Knn methods
+
 2/ Logistic Regression
+
 3/ Random Forest
 
 
