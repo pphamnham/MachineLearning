@@ -8,6 +8,7 @@ Dataset summary
  
 
 B/ Using 3 different methods to predict the Forest Cover
+https://archive.ics.uci.edu/ml/datasets/covertype
 
 1/ Knn methods
 
